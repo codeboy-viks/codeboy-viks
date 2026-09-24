@@ -15,7 +15,8 @@
 - 🎓 Computer Science Honours
 - ☕ Exploring Java and Object-Oriented Programming
 - 🧠 Interested in Data Structures & Algorithms
-- 🚀 Exploring GitHub and building coding projects
+- 🚀 Exploring GitHub and building coding project
+- ⚡ Learning Web 
 
 
 ---
