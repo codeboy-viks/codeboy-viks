@@ -1,30 +1,29 @@
 <h1 align="center">👋 Hey, I'm Codeboy-Viks!</h1>
 
 <h3 align="center">
-  💻 CS Student | 🚩 Searching for best-case scenarios, fr 💀
+  💻 CS Student | 🚩
 </h3>
 
 <p align="center">
-  <i>"flag = false; // still waiting for the best case"</i>
+  <i>"flag = false;"</i>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science student
+- 🎓 Computer Science Honours
 - ☕ Exploring Java and Object-Oriented Programming
-- 💻 Learning C and programming fundamentals
 - 🧠 Interested in Data Structures & Algorithms
 - 🚀 Exploring GitHub and building coding projects
-- 💀 Currently debugging my understanding of code
+
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,react,nodejs,php,mysql" />
 </p>
 
 ---
@@ -33,7 +32,6 @@
 
 - 📘 Java & OOP
 - 🧩 Data Structures and Algorithms
-- 🔍 Searching for best-case scenarios
 - 🛠️ Git and GitHub
 - 💻 Turning ideas into actual projects
 
@@ -47,11 +45,3 @@
 
 ---
 
-## 🗿 A Little About My Coding Life
-
-```text
-while (alive) {
-    learn();
-    tryAgain();
-    debug();
-}
