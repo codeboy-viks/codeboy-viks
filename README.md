@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Codeboy-Viks!</h1>
 
-<!--
-**codeboy-viks/codeboy-viks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  💻 CS Student | 🚩 Searching for best-case scenarios, fr 💀
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>"flag = false; // still waiting for the best case"</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science student
+- ☕ Exploring Java and Object-Oriented Programming
+- 💻 Learning C and programming fundamentals
+- 🧠 Interested in Data Structures & Algorithms
+- 🚀 Exploring GitHub and building coding projects
+- 💀 Currently debugging my understanding of code
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Currently Exploring
+
+- 📘 Java & OOP
+- 🧩 Data Structures and Algorithms
+- 🔍 Searching for best-case scenarios
+- 🛠️ Git and GitHub
+- 💻 Turning ideas into actual projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeboy-viks&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🗿 A Little About My Coding Life
+
+```text
+while (alive) {
+    learn();
+    tryAgain();
+    debug();
+}
